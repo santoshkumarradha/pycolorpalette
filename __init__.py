@@ -1,1 +1,1 @@
-from src.pycolorpalette import colors
+from .src.pycolorpalette import colors
