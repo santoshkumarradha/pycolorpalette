@@ -1,0 +1,1 @@
+from src.pycolorpalette import colors
